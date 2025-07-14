@@ -1,0 +1,29 @@
+body{
+    padding-top: 50px;
+}
+
+h1, h2, h3{
+    font-family:'Times New Roman', Times, serif ;
+}
+
+.nav_personalizado{
+    background-color: white;
+}
+
+.header_img{
+    background-image: url("https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    color: white;
+}
+
+.form_personalizar{
+    max-width: 70vh;
+}
+
+.btn_personalizar{
+    background-color: rgb(88, 129, 129);
+    width: 50%;
+    color:white;
+}
